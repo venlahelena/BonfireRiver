@@ -1,13 +1,14 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+:root {
+    --font-family: 'Abel', sans-serif;
+
+    --gradient-text: linear-gradient(89.97deg, #013A40 1.84%, #025159 102.67%);
+    --gradient-bar: linear-gradient(103.22deg, #013A40 -13.86%, #025159 99.55%);
+
+    --color-bg: #1D2124;
+    --color-footer: #2D3233;
+    --color-blog: #012326;
+    --color-text: #A8BBBF;
+    --color-subtext: #025959;
 }
