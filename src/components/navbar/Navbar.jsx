@@ -1,13 +1,14 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri'
 import './navbar.css';
-import logo from '../../assets/Tuonela_game_logo-no-bg.png'
+import logo from '../../assets/bfr-no-bg.png'
 
 const Menu = () => (
     <>
     <p><a href="#home">Home</a></p>
-    <p><a href="#about">About Us</a></p>
+    <p><a href="#socials">Socials</a></p>
     <p><a href="#wtuonela">Tuonela</a></p>
+    <p><a href="#contact">Contact us</a></p>
     </>
 )
 

@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 
-import {Blog, Features, Footer, Header, Possibility, WhatTuonela} from './containers';
-import { CTA, Brand, Navbar } from './components';
+import {Features, Footer, Header, WhatTuonela} from './containers';
+import {Socials, Navbar } from './components';
 
 
 function App() {
@@ -12,12 +12,8 @@ function App() {
             <Navbar />
             <Header />
             </div>
-            <Brand />
+            <Socials />
             <WhatTuonela />
-            <Features />
-            <Possibility />
-            <CTA />
-            <Blog />
             <Footer />
         </div>
     )
