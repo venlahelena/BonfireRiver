@@ -1,7 +1,7 @@
 import React from 'react';
 import './header.css';
 
-import bonfire from '../../assets/Tuonela_game_logo-no-bg.png'
+import bonfire from '../../assets/Tuonela-tsp.png'
 
 function Header() {
     return (

@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import {Features, Footer, Header, WhatTuonela} from './containers';
+import {Features, Footer, Header, WhatTuonela, Bios} from './containers';
 import {Socials, Navbar } from './components';
 
 
@@ -14,6 +14,7 @@ function App() {
             </div>
             <Socials />
             <WhatTuonela />
+            {/* <Bios /> */}
             <Footer />
         </div>
     )

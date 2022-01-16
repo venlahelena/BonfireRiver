@@ -1,6 +1,6 @@
 import React from 'react';
 import './socials.css';
-import { ig, twitter, ks } from './imports';
+import { ig, twitter, ks, patreon} from './imports';
 
 const Socials = () => {
     return (
@@ -16,8 +16,8 @@ const Socials = () => {
                 </a>
             </div>
             <div>
-                <a href="">
-                    <img src={ks} alt="ks" href=""/>
+                <a href="https://www.patreon.com/bonfireriverstudios">
+                    <img src={patreon} alt="patreon" />
                 </a>
             </div>
         </div>
