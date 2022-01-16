@@ -7,7 +7,7 @@ const Socials = () => {
         <div className="tuonela__socials section__padding" id="socials">
             <div>
                 <a href="https://www.instagram.com/bonfireriverstudios/">
-                    <img src={ig} alt="ig" href=""/>
+                    <img src={ig} alt="ig"/>
                 </a>
             </div>
             <div>
