@@ -1,0 +1,37 @@
+.Pictures {
+    margin-bottom: 10rem;
+}
+
+
+.rec-dot_active {
+    background-color: var(--color-subtext) !important;
+    box-shadow: 0 0 1px 3px var(--color-bg) !important;
+}
+.rec-dot:focus,
+.rec-dot:hover {
+    box-shadow: 0 0 1px 3px var(--color-bg) !important;
+}
+.rec-dot_active:focus,
+.rec-dot_active:hover {
+    background-color: var(--color-subtext) !important;
+    box-shadow: 0 0 1px 3px var(--color-bg) !important;
+}
+
+.rec-arrow {
+    
+    background-color: var(--color-subtext) !important;
+    transition: all 0.3s ease;
+    font-size: 1.1rem !important;
+    color: white !important;
+    width: 2rem !important;
+    height: 2rem !important;
+    min-width: 2rem !important;
+    line-height: 2rem !important;
+    margin: 10rem;
+   
+}
+
+.rec-arrow:hover:not(:disabled) {
+    transform: scale(1.2);
+}
+

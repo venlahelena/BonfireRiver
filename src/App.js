@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 
-import {Features, Footer, Header, WhatTuonela, Bios} from './containers';
-import {Socials, Navbar } from './components';
+import {Features, Footer, Header, WhatTuonela, Bios } from './containers';
+import {Socials, Navbar, Pictures} from './components';
 
 
 function App() {
@@ -15,6 +15,7 @@ function App() {
             <Socials />
             <WhatTuonela />
             {/* <Bios /> */}
+            <Pictures />
             <Footer />
         </div>
     )

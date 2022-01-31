@@ -14,7 +14,7 @@ function Bios() {
                     <Bio img="" title="Daniel" text="Daniel is the Environment Artist and Level Designer here in the North. He loves mixing together the successful ingredients of game design like mixing a good drink."/>
                     <Bio img="" title="Gabriel" text="Gabriel is the Sound Designer and Cinematographer of Bonfire River Studios. His specialties include sound effect production, video editing, graphic design and musical composition."/>
                     <Bio img="" title="June" text="Juniper happily holds the title of Concept Artist here at Bonfire River Studios. They're passionate about storytelling and making art make sense."/>
-                    <Bio img="" title="Venla" text="Venla is responsible of programming and character desing at Bonfire River Studios. "/>
+                    <Bio img="" title="Venla" text="Venla is the programmer and character desinger at Bonfire River Studios. She is doinf "/>
                 </div>
             </div>
         </div>
